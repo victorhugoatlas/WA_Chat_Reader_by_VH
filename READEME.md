@@ -1,0 +1,2 @@
+WA Reade by VH
+Esse projeto remonta conversar exportadas do WhatsApp (iPhone), que originalmente eram separadas em um arquivo de texto .txt e vários arquivos de mídia, de modo natural e semelhante a interface do próprio WhatsApp.
