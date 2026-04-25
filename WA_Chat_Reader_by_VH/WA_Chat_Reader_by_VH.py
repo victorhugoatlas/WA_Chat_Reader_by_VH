@@ -12,11 +12,11 @@ class WAReader(ctk.CTk):
     def __init__(self):
         super().__init__()
 
-        self.title("WA Reader by VH")
+        self.title("WA Chat Reader by VH")
         self.geometry("500x350")
         self.pasta_selecionada = ""
 
-        self.label_titulo = ctk.CTkLabel(self, text="WA Reader by VH", font=("Segoe UI", 24, "bold"))
+        self.label_titulo = ctk.CTkLabel(self, text="WA Chat Reader by VH", font=("Segoe UI", 24, "bold"))
         self.label_titulo.pack(pady=20)
 
         self.btn_procurar = ctk.CTkButton(self, text="Procurar Pasta", command=self.selecionar_pasta)
